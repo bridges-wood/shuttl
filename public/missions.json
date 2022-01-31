@@ -1,0 +1,2061 @@
+[
+  {
+    "id": "STS-1",
+    "crew": [
+      "John Young",
+      "Robert Crippen"
+    ],
+    "patchURL": "/patches/STS-1.jpg",
+    "playlist": "https://open.spotify.com/embed/playlist/4S9wPqEDQLeX7NIvqVHwVJ?utm_source=generator",
+    "start": "1981-04-12",
+    "end": "1981-04-14"
+  },
+  {
+    "id": "STS-2",
+    "crew": [
+      "Joe Engle",
+      "Richard H. Truly"
+    ],
+    "patchURL": "/patches/STS-2.jpg",
+    "start": "1981-11-12",
+    "end": "1981-11-14"
+  },
+  {
+    "id": "STS-3",
+    "crew": [
+      "C. Gordon Fullerton",
+      "Jack R. Lousma"
+    ],
+    "patchURL": "/patches/STS-3.jpg",
+    "start": "1982-03-22",
+    "end": "1982-04-30"
+  },
+  {
+    "id": "STS-4",
+    "crew": [
+      "Ken Mattingly",
+      "Henry Hartsfield"
+    ],
+    "patchURL": "/patches/STS-4.jpg",
+    "start": "1982-06-27",
+    "end": "1982-07-4"
+  },
+  {
+    "id": "STS-5",
+    "crew": [
+      "Vance D. Brand",
+      "Robert F. Overmyer",
+      "Joseph P. Allen",
+      "William B. Lenoir"
+    ],
+    "patchURL": "/patches/STS-5.jpg",
+    "start": "1982-11-11",
+    "end": "1982-11-16"
+  },
+  {
+    "id": "STS-6",
+    "crew": [
+      "Paul J. Weitz",
+      "Karol J. Bobko",
+      "Donald H. Peterson",
+      "Story Musgrave"
+    ],
+    "patchURL": "/patches/STS-6.jpg",
+    "start": "1983-04-4",
+    "end": "1983-04-9"
+  },
+  {
+    "id": "STS-7",
+    "crew": [
+      "Robert Crippen",
+      "Frederick Hauck",
+      "John M. Fabian",
+      "Sally Ride",
+      "Norman Thagard"
+    ],
+    "patchURL": "/patches/STS-7.jpg",
+    "start": "1983-06-18",
+    "end": "1983-06-24"
+  },
+  {
+    "id": "STS-8",
+    "crew": [
+      "Richard H. Truly",
+      "Daniel Brandenstein",
+      "Guion Bluford",
+      "Dale Gardner",
+      "William E. Thornton"
+    ],
+    "patchURL": "/patches/STS-8.jpg",
+    "start": "1983-08-30",
+    "end": "1983-09-5"
+  },
+  {
+    "id": "STS-9",
+    "crew": [
+      "John Young",
+      "Brewster H. Shaw",
+      "Owen K. Garriott",
+      "Robert A. Parker",
+      "Ulf Merbold",
+      "Byron K. Lichtenberg"
+    ],
+    "patchURL": "/patches/STS-9.jpg",
+    "start": "1983-11-28",
+    "end": "1983-12-8"
+  },
+  {
+    "id": "STS-41-B",
+    "crew": [
+      "Vance D. Brand",
+      "Robert L. Gibson",
+      "Bruce McCandless II",
+      "Robert L. Stewart",
+      "Ronald McNair"
+    ],
+    "patchURL": "/patches/STS-41-B.jpg",
+    "start": "1984-02-3",
+    "end": "1984-02-11"
+  },
+  {
+    "id": "STS-41-C",
+    "crew": [
+      "Robert Crippen",
+      "Dick Scobee",
+      "Terry Hart",
+      "James van Hoften",
+      "George Nelson"
+    ],
+    "patchURL": "/patches/STS-41-C.jpg",
+    "start": "1984-04-6",
+    "end": "1984-04-13"
+  },
+  {
+    "id": "STS-41-D",
+    "crew": [
+      "Henry Hartsfield",
+      "Michael Coats",
+      "Mike Mullane",
+      "Steven Hawley",
+      "Judith Resnik",
+      "Charles D. Walker"
+    ],
+    "patchURL": "/patches/STS-41-D.jpg",
+    "start": "1984-08-30",
+    "end": "1984-09-5"
+  },
+  {
+    "id": "STS-41-G",
+    "crew": [
+      "Robert Crippen",
+      "Jon McBride",
+      "Kathryn D. Sullivan",
+      "Sally Ride",
+      "David Leestma",
+      "Marc Garneau",
+      "Paul Scully-Power"
+    ],
+    "patchURL": "/patches/STS-41-G.jpg",
+    "start": "1984-10-5",
+    "end": "1984-10-13"
+  },
+  {
+    "id": "STS-51-A",
+    "crew": [
+      "Frederick Hauck",
+      "David M. Walker",
+      "Joseph P. Allen",
+      "Anna Lee Fisher",
+      "Dale Gardner"
+    ],
+    "patchURL": "/patches/STS-51-A.jpg",
+    "start": "1984-11-8",
+    "end": "1984-11-16"
+  },
+  {
+    "id": "STS-51-C",
+    "crew": [
+      "Ken Mattingly",
+      "Loren Shriver",
+      "Ellison Onizuka",
+      "James Buchli",
+      "Gary Payton"
+    ],
+    "patchURL": "/patches/STS-51-C.jpg",
+    "start": "1985-01-24",
+    "end": "1985-01-27"
+  },
+  {
+    "id": "STS-51-D",
+    "crew": [
+      "Karol J. Bobko",
+      "Donald E. Williams",
+      "Margaret Rhea Seddon",
+      "S. David Griggs",
+      "Jeffrey A. Hoffman",
+      "Charles D. Walker",
+      "Jake Garn"
+    ],
+    "patchURL": "/patches/STS-51-D.jpg",
+    "start": "1985-04-12",
+    "end": "1985-04-19"
+  },
+  {
+    "id": "STS-51-B",
+    "crew": [
+      "Robert F. Overmyer",
+      "Frederick D. Gregory",
+      "Don L. Lind",
+      "Norman Thagard",
+      "William E. Thornton",
+      "Lodewijk van den Berg",
+      "Taylor G. Wang"
+    ],
+    "patchURL": "/patches/STS-51-B.jpg",
+    "start": "1985-04-29",
+    "end": "1985-05-6"
+  },
+  {
+    "id": "STS-51-G",
+    "crew": [
+      "Daniel Brandenstein",
+      "John Oliver Creighton",
+      "John M. Fabian",
+      "Steven R. Nagel",
+      "Shannon Lucid",
+      "Patrick Baudry",
+      "Sultan bin Salman Al Saud"
+    ],
+    "patchURL": "/patches/STS-51-G.jpg",
+    "start": "1985-06-17",
+    "end": "1985-06-24"
+  },
+  {
+    "id": "STS-51-F",
+    "crew": [
+      "C. Gordon Fullerton",
+      "Roy D. Bridges",
+      "Karl Gordon Henize",
+      "Story Musgrave",
+      "Anthony W. England",
+      "Loren Acton",
+      "John-David F. Bartoe"
+    ],
+    "patchURL": "/patches/STS-51-F.jpg",
+    "start": "1985-07-29",
+    "end": "1985-08-6"
+  },
+  {
+    "id": "STS-51-I",
+    "crew": [
+      "Joe Engle",
+      "Richard O. Covey",
+      "James van Hoften",
+      "John M. Lounge",
+      "William Frederick Fisher"
+    ],
+    "patchURL": "/patches/STS-51-I.jpg",
+    "start": "1985-08-27",
+    "end": "1985-09-3"
+  },
+  {
+    "id": "STS-51-J",
+    "crew": [
+      "Karol J. Bobko",
+      "Ronald J. Grabe",
+      "David C. Hilmers",
+      "Robert L. Stewart",
+      "William A. Pailes"
+    ],
+    "patchURL": "/patches/STS-51-J.jpg",
+    "start": "1985-10-3",
+    "end": "1985-10-7"
+  },
+  {
+    "id": "STS-61-A",
+    "crew": [
+      "Henry Hartsfield",
+      "Steven R. Nagel",
+      "Bonnie J. Dunbar",
+      "James Buchli",
+      "Guion Bluford",
+      "Reinhard Furrer",
+      "Ernst Messerschmid",
+      "Wubbo Ockels"
+    ],
+    "patchURL": "/patches/STS-61-A.jpg",
+    "start": "1985-10-30",
+    "end": "1985-11-6"
+  },
+  {
+    "id": "STS-61-B",
+    "crew": [
+      "Brewster H. Shaw",
+      "Bryan D. O'Connor",
+      "Sherwood C. Spring",
+      "Mary L. Cleave",
+      "Jerry L. Ross",
+      "Charles D. Walker",
+      "Rodolfo Neri Vela"
+    ],
+    "patchURL": "/patches/STS-61-B.jpg",
+    "start": "1985-11-27",
+    "end": "1985-12-3"
+  },
+  {
+    "id": "STS-61-C",
+    "crew": [
+      "Robert L. Gibson",
+      "Charles Bolden",
+      "George Nelson",
+      "Steven Hawley",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Bill Nelson",
+      "Robert J. Cenker"
+    ],
+    "patchURL": "/patches/STS-61-C.jpg",
+    "start": "1986-01-12",
+    "end": "1986-01-18"
+  },
+  {
+    "id": "STS-51-L",
+    "crew": [
+      "Dick Scobee",
+      "Michael J. Smith",
+      "Ellison Onizuka",
+      "Judith Resnik",
+      "Ronald McNair",
+      "Gregory Jarvis",
+      "Christa McAuliffe"
+    ],
+    "patchURL": "/patches/STS-51-L.jpg",
+    "start": "1986-01-28",
+    "end": null
+  },
+  {
+    "id": "STS-26",
+    "crew": [
+      "Frederick Hauck",
+      "Richard O. Covey",
+      "John M. Lounge",
+      "David C. Hilmers",
+      "George Nelson"
+    ],
+    "patchURL": "/patches/STS-26.jpg",
+    "start": "1988-09-29",
+    "end": "1988-10-3"
+  },
+  {
+    "id": "STS-27",
+    "crew": [
+      "Robert L. Gibson",
+      "Guy Gardner",
+      "Mike Mullane",
+      "Jerry L. Ross",
+      "William Shepherd"
+    ],
+    "patchURL": "/patches/STS-27.jpg",
+    "start": "1988-12-2",
+    "end": "1988-12-6"
+  },
+  {
+    "id": "STS-29",
+    "crew": [
+      "Michael Coats",
+      "John E. Blaha",
+      "Robert C. Springer",
+      "James Buchli",
+      "James P. Bagian"
+    ],
+    "patchURL": "/patches/STS-29.jpg",
+    "start": "1989-03-13",
+    "end": "1989-04-18"
+  },
+  {
+    "id": "STS-30",
+    "crew": [
+      "David M. Walker",
+      "Ronald J. Grabe",
+      "Mark C. Lee",
+      "Norman Thagard",
+      "Mary L. Cleave"
+    ],
+    "patchURL": "/patches/STS-30.jpg",
+    "start": "1989-05-4",
+    "end": "1989-05-8"
+  },
+  {
+    "id": "STS-28",
+    "crew": [
+      "Brewster H. Shaw",
+      "Richard N. Richards",
+      "James C. Adamson",
+      "David Leestma",
+      "Mark N. Brown"
+    ],
+    "patchURL": "/patches/STS-28.jpg",
+    "start": "1989-08-8",
+    "end": "1989-08-13"
+  },
+  {
+    "id": "STS-34",
+    "crew": [
+      "Donald E. Williams",
+      "Michael J. McCulley",
+      "Shannon Lucid",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Ellen S. Baker"
+    ],
+    "patchURL": "/patches/STS-34.jpg",
+    "start": "1989-10-18",
+    "end": "1989-10-23"
+  },
+  {
+    "id": "STS-33",
+    "crew": [
+      "Frederick D. Gregory",
+      "John E. Blaha",
+      "Sonny Carter",
+      "Story Musgrave",
+      "Kathryn C. Thornton"
+    ],
+    "patchURL": "/patches/STS-33.jpg",
+    "start": "1989-11-23",
+    "end": "1989-11-27"
+  },
+  {
+    "id": "STS-32",
+    "crew": [
+      "Daniel Brandenstein",
+      "Jim Wetherbee",
+      "Bonnie J. Dunbar",
+      "Marsha Ivins",
+      "G. David Low"
+    ],
+    "patchURL": "/patches/STS-32.jpg",
+    "start": "1990-01-9",
+    "end": "1990-01-20"
+  },
+  {
+    "id": "STS-36",
+    "crew": [
+      "John Oliver Creighton",
+      "John Casper",
+      "Mike Mullane",
+      "David C. Hilmers",
+      "Pierre J. Thuot"
+    ],
+    "patchURL": "/patches/STS-36.jpg",
+    "start": "1990-02-28",
+    "end": "1990-04-4"
+  },
+  {
+    "id": "STS-31",
+    "crew": [
+      "Loren Shriver",
+      "Charles Bolden",
+      "Steven Hawley",
+      "Kathryn D. Sullivan",
+      "Bruce McCandless II"
+    ],
+    "patchURL": "/patches/STS-31.jpg",
+    "start": "1990-04-24",
+    "end": "1990-04-29"
+  },
+  {
+    "id": "STS-41",
+    "crew": [
+      "Richard N. Richards",
+      "Robert D. Cabana",
+      "Bruce E. Melnick",
+      "William Shepherd",
+      "Thomas Akers"
+    ],
+    "patchURL": "/patches/STS-41.jpg",
+    "start": "1990-10-6",
+    "end": "1990-10-10"
+  },
+  {
+    "id": "STS-38",
+    "crew": [
+      "Richard O. Covey",
+      "Frank L. Culbertson",
+      "Carl J. Meade",
+      "Robert C. Springer",
+      "Charles D. Gemar"
+    ],
+    "patchURL": "/patches/STS-38.jpg",
+    "start": "1990-11-15",
+    "end": "1990-11-20"
+  },
+  {
+    "id": "STS-35",
+    "crew": [
+      "Vance D. Brand",
+      "Guy Gardner",
+      "Jeffrey A. Hoffman",
+      "John M. Lounge",
+      "Robert A. Parker",
+      "Samuel T. Durrance",
+      "Ronald A. Parise"
+    ],
+    "patchURL": "/patches/STS-35.jpg",
+    "start": "1990-12-2",
+    "end": "1990-12-10"
+  },
+  {
+    "id": "STS-37",
+    "crew": [
+      "Steven R. Nagel",
+      "Kenneth D. Cameron",
+      "Linda M. Godwin",
+      "Jerry L. Ross",
+      "Jerome Apt"
+    ],
+    "patchURL": "/patches/STS-37.jpg",
+    "start": "1991-04-5",
+    "end": "1991-04-11"
+  },
+  {
+    "id": "STS-39",
+    "crew": [
+      "Michael Coats",
+      "L. Blaine Hammond",
+      "Gregory J. Harbaugh",
+      "Donald R. McMonagle",
+      "Guion Bluford",
+      "Charles L. Veach",
+      "Richard Hieb"
+    ],
+    "patchURL": "/patches/STS-39.jpg",
+    "start": "1991-04-28",
+    "end": "1991-05-6"
+  },
+  {
+    "id": "STS-40",
+    "crew": [
+      "Bryan D. O'Connor",
+      "Sidney M. Gutierrez",
+      "James P. Bagian",
+      "Tamara E. Jernigan",
+      "Margaret Rhea Seddon",
+      "F. Drew Gaffney",
+      "Millie Hughes-Fulford"
+    ],
+    "patchURL": "/patches/STS-40.jpg",
+    "start": "1991-06-5",
+    "end": "1991-06-14"
+  },
+  {
+    "id": "STS-43",
+    "crew": [
+      "John E. Blaha",
+      "Michael A. Baker",
+      "Shannon Lucid",
+      "G. David Low",
+      "James C. Adamson"
+    ],
+    "patchURL": "/patches/STS-43.jpg",
+    "start": "1991-08-2",
+    "end": "1991-08-11"
+  },
+  {
+    "id": "STS-48",
+    "crew": [
+      "John Oliver Creighton",
+      "Kenneth S. Reightler, Jr.",
+      "Charles D. Gemar",
+      "James Buchli",
+      "Mark N. Brown"
+    ],
+    "patchURL": "/patches/STS-48.jpg",
+    "start": "1991-09-12",
+    "end": "1991-09-18"
+  },
+  {
+    "id": "STS-44",
+    "crew": [
+      "Frederick D. Gregory",
+      "Terence T. Henricks",
+      "James S. Voss",
+      "Story Musgrave",
+      "Mario Runco, Jr.",
+      "Thomas J. Hennen"
+    ],
+    "patchURL": "/patches/STS-44.jpg",
+    "start": "1991-11-24",
+    "end": "1991-12-1"
+  },
+  {
+    "id": "STS-42",
+    "crew": [
+      "Ronald J. Grabe",
+      "Stephen S. Oswald",
+      "Norman Thagard",
+      "William F. Readdy",
+      "David C. Hilmers",
+      "Roberta Bondar",
+      "Ulf Merbold"
+    ],
+    "patchURL": "/patches/STS-42.jpg",
+    "start": "1992-01-22",
+    "end": "1992-01-30"
+  },
+  {
+    "id": "STS-45",
+    "crew": [
+      "Charles Bolden",
+      "Brian Duffy",
+      "Kathryn D. Sullivan",
+      "David Leestma",
+      "Michael Foale",
+      "Dirk Frimout",
+      "Byron K. Lichtenberg"
+    ],
+    "patchURL": "/patches/STS-45.jpg",
+    "start": "1992-03-24",
+    "end": "1992-04-2"
+  },
+  {
+    "id": "STS-49",
+    "crew": [
+      "Daniel Brandenstein",
+      "Kevin P. Chilton",
+      "Richard Hieb",
+      "Bruce E. Melnick",
+      "Pierre J. Thuot",
+      "Kathryn C. Thornton",
+      "Thomas Akers"
+    ],
+    "patchURL": "/patches/STS-49.jpg",
+    "start": "1992-05-7",
+    "end": "1992-05-16"
+  },
+  {
+    "id": "STS-50",
+    "crew": [
+      "Richard N. Richards",
+      "Ken Bowersox",
+      "Bonnie J. Dunbar",
+      "Ellen S. Baker",
+      "Carl J. Meade",
+      "Lawrence J. DeLucas",
+      "Eugene H. Trinh"
+    ],
+    "patchURL": "/patches/STS-50.jpg",
+    "start": "1992-06-25",
+    "end": "1992-07-9"
+  },
+  {
+    "id": "STS-46",
+    "crew": [
+      "Loren Shriver",
+      "Andrew M. Allen",
+      "Claude Nicollier",
+      "Marsha Ivins",
+      "Jeffrey A. Hoffman",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Franco Malerba"
+    ],
+    "patchURL": "/patches/STS-46.jpg",
+    "start": "1992-07-31",
+    "end": "1992-08-8"
+  },
+  {
+    "id": "STS-47",
+    "crew": [
+      "Robert L. Gibson",
+      "Curtis Brown",
+      "Mark C. Lee",
+      "Jerome Apt",
+      "Jan Davis",
+      "Mae Jemison",
+      "Mamoru Mohri"
+    ],
+    "patchURL": "/patches/STS-47.jpg",
+    "start": "1992-09-12",
+    "end": "1992-09-20"
+  },
+  {
+    "id": "STS-52",
+    "crew": [
+      "Jim Wetherbee",
+      "Michael A. Baker",
+      "Charles L. Veach",
+      "William Shepherd",
+      "Tamara E. Jernigan",
+      "Steve MacLean"
+    ],
+    "patchURL": "/patches/STS-52.jpg",
+    "start": "1992-10-22",
+    "end": "1992-11-1"
+  },
+  {
+    "id": "STS-53",
+    "crew": [
+      "David M. Walker",
+      "Robert D. Cabana",
+      "Guion Bluford",
+      "Michael R. Clifford",
+      "James S. Voss"
+    ],
+    "patchURL": "/patches/STS-53.jpg",
+    "start": "1992-12-2",
+    "end": "1992-12-9"
+  },
+  {
+    "id": "STS-54",
+    "crew": [
+      "John Casper",
+      "Donald R. McMonagle",
+      "Mario Runco, Jr.",
+      "Gregory J. Harbaugh",
+      "Susan J. Helms"
+    ],
+    "patchURL": "/patches/STS-54.jpg",
+    "start": "1993-01-13",
+    "end": "1993-01-19"
+  },
+  {
+    "id": "STS-56",
+    "crew": [
+      "Kenneth D. Cameron",
+      "Stephen S. Oswald",
+      "Michael Foale",
+      "Kenneth Cockrell",
+      "Ellen Ochoa"
+    ],
+    "patchURL": "/patches/STS-56.jpg",
+    "start": "1993-04-8",
+    "end": "1993-04-17"
+  },
+  {
+    "id": "STS-55",
+    "crew": [
+      "Steven R. Nagel",
+      "Terence T. Henricks",
+      "Jerry L. Ross",
+      "Charles J. Precourt",
+      "Bernard A. Harris, Jr.",
+      "Ulrich Walter",
+      "Hans Schlegel"
+    ],
+    "patchURL": "/patches/STS-55.jpg",
+    "start": "1993-04-26",
+    "end": "1993-05-6"
+  },
+  {
+    "id": "STS-57",
+    "crew": [
+      "Ronald J. Grabe",
+      "Brian Duffy",
+      "G. David Low",
+      "Nancy J. Currie",
+      "Peter Wisoff",
+      "Janice E. Voss"
+    ],
+    "patchURL": "/patches/STS-57.jpg",
+    "start": "1993-06-21",
+    "end": "1993-07-1"
+  },
+  {
+    "id": "STS-51",
+    "crew": [
+      "Frank L. Culbertson",
+      "William F. Readdy",
+      "James H. Newman",
+      "Daniel W. Bursch",
+      "Carl E. Walz"
+    ],
+    "patchURL": "/patches/STS-51.jpg",
+    "start": "1993-09-12",
+    "end": "1993-09-22"
+  },
+  {
+    "id": "STS-58",
+    "crew": [
+      "John E. Blaha",
+      "Richard A. Searfoss",
+      "Margaret Rhea Seddon",
+      "William S. McArthur",
+      "David Wolf",
+      "Shannon Lucid",
+      "Martin J. Fettman"
+    ],
+    "patchURL": "/patches/STS-58.jpg",
+    "start": "1993-10-18",
+    "end": "1993-11-1"
+  },
+  {
+    "id": "STS-61",
+    "crew": [
+      "Richard O. Covey",
+      "Ken Bowersox",
+      "Kathryn C. Thornton",
+      "Claude Nicollier",
+      "Jeffrey A. Hoffman",
+      "Story Musgrave",
+      "Thomas Akers"
+    ],
+    "patchURL": "/patches/STS-61.jpg",
+    "start": "1993-12-2",
+    "end": "1993-12-13"
+  },
+  {
+    "id": "STS-60",
+    "crew": [
+      "Charles Bolden",
+      "Kenneth S. Reightler, Jr.",
+      "Jan Davis",
+      "Ronald M. Sega",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Sergei Krikalev"
+    ],
+    "patchURL": "/patches/STS-60.jpg",
+    "start": "1994-02-3",
+    "end": "1994-02-11"
+  },
+  {
+    "id": "STS-62",
+    "crew": [
+      "John Casper",
+      "Andrew M. Allen",
+      "Pierre J. Thuot",
+      "Charles D. Gemar",
+      "Marsha Ivins"
+    ],
+    "patchURL": "/patches/STS-62.jpg",
+    "start": "1994-03-4",
+    "end": "1994-04-18"
+  },
+  {
+    "id": "STS-59",
+    "crew": [
+      "Sidney M. Gutierrez",
+      "Kevin P. Chilton",
+      "Linda M. Godwin",
+      "Jerome Apt",
+      "Michael R. Clifford",
+      "Thomas David Jones"
+    ],
+    "patchURL": "/patches/STS-59.jpg",
+    "start": "1994-04-9",
+    "end": "1994-04-20"
+  },
+  {
+    "id": "STS-65",
+    "crew": [
+      "Robert D. Cabana",
+      "James D. Halsell",
+      "Richard Hieb",
+      "Carl E. Walz",
+      "Leroy Chiao",
+      "Donald A. Thomas",
+      "Chiaki Mukai"
+    ],
+    "patchURL": "/patches/STS-65.jpg",
+    "start": "1994-07-8",
+    "end": "1994-07-23"
+  },
+  {
+    "id": "STS-64",
+    "crew": [
+      "Richard N. Richards",
+      "L. Blaine Hammond",
+      "Jerry M. Linenger",
+      "Susan J. Helms",
+      "Carl J. Meade",
+      "Mark C. Lee"
+    ],
+    "patchURL": "/patches/STS-64.jpg",
+    "start": "1994-09-9",
+    "end": "1994-09-20"
+  },
+  {
+    "id": "STS-68",
+    "crew": [
+      "Michael A. Baker",
+      "Terrence W. Wilcutt",
+      "Steven Smith",
+      "Daniel W. Bursch",
+      "Peter Wisoff",
+      "Thomas David Jones"
+    ],
+    "patchURL": "/patches/STS-68.jpg",
+    "start": "1994-09-30",
+    "end": "1994-10-11"
+  },
+  {
+    "id": "STS-66",
+    "crew": [
+      "Donald R. McMonagle",
+      "Curtis Brown",
+      "Ellen Ochoa",
+      "Joseph R. Tanner",
+      "Jean-Fran\u00e7ois Clervoy",
+      "Scott E. Parazynski"
+    ],
+    "patchURL": "/patches/STS-66.jpg",
+    "start": "1994-11-3",
+    "end": "1994-11-14"
+  },
+  {
+    "id": "STS-63",
+    "crew": [
+      "Jim Wetherbee",
+      "Eileen Collins",
+      "Bernard A. Harris, Jr.",
+      "Michael Foale",
+      "Janice E. Voss",
+      "Vladimir Titov"
+    ],
+    "patchURL": "/patches/STS-63.jpg",
+    "start": "1995-02-3",
+    "end": "1995-02-11"
+  },
+  {
+    "id": "STS-67",
+    "crew": [
+      "Stephen S. Oswald",
+      "William G. Gregory",
+      "John M. Grunsfeld",
+      "Wendy B. Lawrence",
+      "Tamara E. Jernigan",
+      "Samuel T. Durrance",
+      "Ronald A. Parise"
+    ],
+    "patchURL": "/patches/STS-67.jpg",
+    "start": "1995-03-2",
+    "end": "1995-04-18"
+  },
+  {
+    "id": "STS-71",
+    "crew": [
+      "Robert L. Gibson",
+      "Charles J. Precourt",
+      "Ellen S. Baker",
+      "Gregory J. Harbaugh",
+      "Bonnie J. Dunbar",
+      "Anatoly Yakovlevich Solovyev",
+      "takeoff",
+      "Mir EO-19",
+      "Nikolai Budarin",
+      "takeoff",
+      "Mir EO-19",
+      "Gennadi Strekalov",
+      "landing",
+      "Mir EO-18",
+      "Vladimir Dezhurov",
+      "landing",
+      "Mir EO-18",
+      "Norman Thagard",
+      "landing",
+      "Mir EO-18"
+    ],
+    "patchURL": "/patches/STS-71.jpg",
+    "start": "1995-06-27",
+    "end": "1995-07-7"
+  },
+  {
+    "id": "STS-70",
+    "crew": [
+      "Terence T. Henricks",
+      "Kevin R. Kregel",
+      "Nancy J. Currie",
+      "Donald A. Thomas",
+      "Mary Ellen Weber"
+    ],
+    "patchURL": "/patches/STS-70.jpg",
+    "start": "1995-07-13",
+    "end": "1995-07-22"
+  },
+  {
+    "id": "STS-69",
+    "crew": [
+      "David M. Walker",
+      "Kenneth Cockrell",
+      "James S. Voss",
+      "James H. Newman",
+      "Michael L. Gernhardt"
+    ],
+    "patchURL": "/patches/STS-69.jpg",
+    "start": "1995-09-7",
+    "end": "1995-09-18"
+  },
+  {
+    "id": "STS-73",
+    "crew": [
+      "Ken Bowersox",
+      "Kent Rominger",
+      "Kathryn C. Thornton",
+      "Catherine Coleman",
+      "Michael L\u00f3pez-Alegr\u00eda",
+      "Frederick W. Leslie",
+      "Albert Sacco"
+    ],
+    "patchURL": "/patches/STS-73.jpg",
+    "start": "1995-10-20",
+    "end": "1995-11-5"
+  },
+  {
+    "id": "STS-74",
+    "crew": [
+      "Kenneth D. Cameron",
+      "James D. Halsell",
+      "Chris Hadfield",
+      "Jerry L. Ross",
+      "William S. McArthur"
+    ],
+    "patchURL": "/patches/STS-74.jpg",
+    "start": "1995-11-12",
+    "end": "1995-11-20"
+  },
+  {
+    "id": "STS-72",
+    "crew": [
+      "Brian Duffy",
+      "Brent W. Jett",
+      "Leroy Chiao",
+      "Winston E. Scott",
+      "Koichi Wakata",
+      "Daniel T. Barry"
+    ],
+    "patchURL": "/patches/STS-72.jpg",
+    "start": "1996-01-11",
+    "end": "1996-01-20"
+  },
+  {
+    "id": "STS-75",
+    "crew": [
+      "Andrew M. Allen",
+      "Scott J. Horowitz",
+      "Jeffrey A. Hoffman",
+      "Maurizio Cheli",
+      "Claude Nicollier",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Umberto Guidoni"
+    ],
+    "patchURL": "/patches/STS-75.jpg",
+    "start": "1996-02-22",
+    "end": "1996-04-9"
+  },
+  {
+    "id": "STS-76",
+    "crew": [
+      "Kevin P. Chilton",
+      "Richard A. Searfoss",
+      "Ronald M. Sega",
+      "Michael R. Clifford",
+      "Linda M. Godwin",
+      "Shannon Lucid",
+      "Mir EO-21",
+      "takeoff"
+    ],
+    "patchURL": "/patches/STS-76.jpg",
+    "start": "1996-03-22",
+    "end": "1996-04-31"
+  },
+  {
+    "id": "STS-77",
+    "crew": [
+      "John Casper",
+      "Curtis Brown",
+      "Andy Thomas",
+      "Daniel W. Bursch",
+      "Mario Runco, Jr.",
+      "Marc Garneau"
+    ],
+    "patchURL": "/patches/STS-77.jpg",
+    "start": "1996-05-19",
+    "end": "1996-05-29"
+  },
+  {
+    "id": "STS-78",
+    "crew": [
+      "Terence T. Henricks",
+      "Kevin R. Kregel",
+      "Richard M. Linnehan",
+      "Susan J. Helms",
+      "Charles E. Brady Jr.",
+      "Jean-Jacques Favier",
+      "Robert Thirsk",
+      "Luca Urbani"
+    ],
+    "patchURL": "/patches/STS-78.jpg",
+    "start": "1996-06-20",
+    "end": "1996-07-7"
+  },
+  {
+    "id": "STS-79",
+    "crew": [
+      "William F. Readdy",
+      "Terrence W. Wilcutt",
+      "Jerome Apt",
+      "Thomas Akers",
+      "Carl E. Walz",
+      "John E. Blaha",
+      "takeoff",
+      "Shannon Lucid",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-79.jpg",
+    "start": "1996-09-16",
+    "end": "1996-09-26"
+  },
+  {
+    "id": "STS-80",
+    "crew": [
+      "Kenneth Cockrell",
+      "Kent Rominger",
+      "Story Musgrave",
+      "Thomas David Jones",
+      "Tamara E. Jernigan"
+    ],
+    "patchURL": "/patches/STS-80.jpg",
+    "start": "1996-11-19",
+    "end": "1996-12-7"
+  },
+  {
+    "id": "STS-81",
+    "crew": [
+      "Michael A. Baker",
+      "Brent W. Jett",
+      "Peter Wisoff",
+      "John M. Grunsfeld",
+      "Marsha Ivins",
+      "Jerry M. Linenger",
+      "takeoff",
+      "John E. Blaha",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-81.jpg",
+    "start": "1997-01-12",
+    "end": "1997-01-22"
+  },
+  {
+    "id": "STS-82",
+    "crew": [
+      "Ken Bowersox",
+      "Scott J. Horowitz",
+      "Joseph R. Tanner",
+      "Steven Hawley",
+      "Gregory J. Harbaugh",
+      "Mark C. Lee",
+      "Steven Smith"
+    ],
+    "patchURL": "/patches/STS-82.jpg",
+    "start": "1997-02-11",
+    "end": "1997-02-21"
+  },
+  {
+    "id": "STS-83",
+    "crew": [
+      "James D. Halsell",
+      "Susan Kilrain",
+      "Janice E. Voss",
+      "Michael L. Gernhardt",
+      "Donald A. Thomas",
+      "Roger K. Crouch",
+      "Gregory T. Linteris"
+    ],
+    "patchURL": "/patches/STS-83.jpg",
+    "start": "1997-04-4",
+    "end": "1997-04-8"
+  },
+  {
+    "id": "STS-84",
+    "crew": [
+      "Charles J. Precourt",
+      "Eileen Collins",
+      "Jean-Fran\u00e7ois Clervoy",
+      "Carlos I. Noriega",
+      "Ed Lu",
+      "Yelena Kondakova",
+      "Michael Foale",
+      "takeoff",
+      "Jerry M. Linenger",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-84.jpg",
+    "start": "1997-05-15",
+    "end": "1997-05-24"
+  },
+  {
+    "id": "STS-94",
+    "crew": [
+      "James D. Halsell",
+      "Susan Kilrain",
+      "Janice E. Voss",
+      "Michael L. Gernhardt",
+      "Donald A. Thomas",
+      "Roger K. Crouch",
+      "Gregory T. Linteris"
+    ],
+    "patchURL": "/patches/STS-94.jpg",
+    "start": "1997-07-1",
+    "end": "1997-07-17"
+  },
+  {
+    "id": "STS-85",
+    "crew": [
+      "Curtis Brown",
+      "Kent Rominger",
+      "Jan Davis",
+      "Stephen Robinson",
+      "Robert Curbeam",
+      "Bjarni Tryggvason"
+    ],
+    "patchURL": "/patches/STS-85.jpg",
+    "start": "1997-08-7",
+    "end": "1997-08-19"
+  },
+  {
+    "id": "STS-86",
+    "crew": [
+      "Jim Wetherbee",
+      "Michael J. Bloomfield",
+      "Vladimir Titov",
+      "Scott E. Parazynski",
+      "Jean-Loup Chr\u00e9tien",
+      "Wendy B. Lawrence",
+      "David Wolf",
+      "takeoff",
+      "Michael Foale",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-86.jpg",
+    "start": "1997-09-26",
+    "end": "1997-10-6"
+  },
+  {
+    "id": "STS-87",
+    "crew": [
+      "Kevin R. Kregel",
+      "Steven Lindsey",
+      "Winston E. Scott",
+      "Kalpana Chawla",
+      "Takao Doi",
+      "Leonid Kadeniuk"
+    ],
+    "patchURL": "/patches/STS-87.jpg",
+    "start": "1997-11-19",
+    "end": "1997-12-5"
+  },
+  {
+    "id": "STS-89",
+    "crew": [
+      "Terrence W. Wilcutt",
+      "Joe F. Edwards",
+      "James F. Reilly",
+      "Michael P. Anderson",
+      "Bonnie J. Dunbar",
+      "Salizhan Sharipov",
+      "Andy Thomas",
+      "takeoff",
+      "David Wolf",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-89.jpg",
+    "start": "1998-01-23",
+    "end": "1998-01-31"
+  },
+  {
+    "id": "STS-90",
+    "crew": [
+      "Richard A. Searfoss",
+      "Scott Altman",
+      "Richard M. Linnehan",
+      "Kathryn P. Hire",
+      "Dafydd Williams",
+      "Jay C. Buckey",
+      "James A. Pawelczyk"
+    ],
+    "patchURL": "/patches/STS-90.jpg",
+    "start": "1998-04-17",
+    "end": "1998-05-3"
+  },
+  {
+    "id": "STS-91",
+    "crew": [
+      "Charles J. Precourt",
+      "Dominic L. Pudwill Gorie",
+      "Wendy B. Lawrence",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Janet L. Kavandi",
+      "Valery Ryumin",
+      "Andy Thomas",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-91.jpg",
+    "start": "1998-06-2",
+    "end": null
+  },
+  {
+    "id": "STS-95",
+    "crew": [
+      "Curtis Brown",
+      "Steven Lindsey",
+      "Pedro Duque",
+      "Scott E. Parazynski",
+      "Stephen Robinson",
+      "Chiaki Mukai",
+      "John Glenn"
+    ],
+    "patchURL": "/patches/STS-95.jpg",
+    "start": "1998-10-29",
+    "end": "1998-11-7"
+  },
+  {
+    "id": "STS-88",
+    "crew": [
+      "Robert D. Cabana",
+      "Frederick W. Sturckow",
+      "Jerry L. Ross",
+      "Nancy J. Currie",
+      "James H. Newman",
+      "Sergei Krikalev"
+    ],
+    "patchURL": "/patches/STS-88.jpg",
+    "start": "1998-12-4",
+    "end": "1998-12-15"
+  },
+  {
+    "id": "STS-96",
+    "crew": [
+      "Rick Husband",
+      "Tamara E. Jernigan",
+      "Ellen Ochoa",
+      "Valeri Tokarev",
+      "Kent Rominger",
+      "Daniel T. Barry",
+      "Julie Payette"
+    ],
+    "patchURL": "/patches/STS-96.jpg",
+    "start": "1999-05-27",
+    "end": "1999-06-6"
+  },
+  {
+    "id": "STS-93",
+    "crew": [
+      "Eileen Collins",
+      "Jeffrey Ashby",
+      "Steven Hawley",
+      "Catherine Coleman",
+      "Michel Tognini"
+    ],
+    "patchURL": "/patches/STS-93.jpg",
+    "start": "1999-07-23",
+    "end": "1999-07-27"
+  },
+  {
+    "id": "STS-103",
+    "crew": [
+      "Curtis Brown",
+      "Scott Kelly",
+      "Steven Smith",
+      "Jean-Fran\u00e7ois Clervoy",
+      "John M. Grunsfeld",
+      "Michael Foale",
+      "Claude Nicollier"
+    ],
+    "patchURL": "/patches/STS-103.jpg",
+    "start": "1999-12-20",
+    "end": "1999-12-27"
+  },
+  {
+    "id": "STS-99",
+    "crew": [
+      "Kevin R. Kregel",
+      "Dominic L. Pudwill Gorie",
+      "Gerhard Thiele",
+      "Janet L. Kavandi",
+      "Janice E. Voss",
+      "Mamoru Mohri"
+    ],
+    "patchURL": "/patches/STS-99.jpg",
+    "start": "2000-02-11",
+    "end": "2000-02-22"
+  },
+  {
+    "id": "STS-101",
+    "crew": [
+      "James D. Halsell",
+      "Scott J. Horowitz",
+      "Mary Ellen Weber",
+      "Jeffrey Williams",
+      "James S. Voss",
+      "Susan J. Helms",
+      "Yury Usachov"
+    ],
+    "patchURL": "/patches/STS-101.jpg",
+    "start": "2000-05-19",
+    "end": "2000-05-29"
+  },
+  {
+    "id": "STS-106",
+    "crew": [
+      "Terrence W. Wilcutt",
+      "Scott Altman",
+      "Richard Mastracchio",
+      "Daniel C. Burbank",
+      "Yuri Malenchenko",
+      "Boris Morukov",
+      "Ed Lu"
+    ],
+    "patchURL": "/patches/STS-106.jpg",
+    "start": "2000-09-8",
+    "end": "2000-09-20"
+  },
+  {
+    "id": "STS-92",
+    "crew": [
+      "Brian Duffy",
+      "Pamela Melroy",
+      "Leroy Chiao",
+      "William S. McArthur",
+      "Peter Wisoff",
+      "Michael L\u00f3pez-Alegr\u00eda",
+      "Koichi Wakata"
+    ],
+    "patchURL": "/patches/STS-92.jpg",
+    "start": "2000-10-11",
+    "end": "2000-10-24"
+  },
+  {
+    "id": "STS-97",
+    "crew": [
+      "Brent W. Jett",
+      "Michael J. Bloomfield",
+      "Joseph R. Tanner",
+      "Marc Garneau",
+      "Carlos I. Noriega"
+    ],
+    "patchURL": "/patches/STS-97.jpg",
+    "start": "2000-12-1",
+    "end": "2000-12-11"
+  },
+  {
+    "id": "STS-98",
+    "crew": [
+      "Kenneth Cockrell",
+      "Robert Curbeam",
+      "Marsha Ivins",
+      "Thomas David Jones"
+    ],
+    "patchURL": "/patches/STS-98.jpg",
+    "start": "2001-02-7",
+    "end": "2001-02-20"
+  },
+  {
+    "id": "STS-102",
+    "crew": [
+      "Jim Wetherbee",
+      "James M. Kelly",
+      "Andy Thomas",
+      "Paul W. Richards",
+      "Yury Usachov",
+      "takeoff",
+      "Expedition 2",
+      "James S. Voss",
+      "takeoff",
+      "Expedition 2",
+      "Susan J. Helms",
+      "takeoff",
+      "Expedition 2",
+      "William Shepherd",
+      "landing",
+      "Expedition 1",
+      "Yuri Gidzenko",
+      "landing",
+      "Expedition 1",
+      "Sergei Krikalev",
+      "landing",
+      "Expedition 1"
+    ],
+    "patchURL": "/patches/STS-102.jpg",
+    "start": "2001-03-8",
+    "end": "2001-04-21"
+  },
+  {
+    "id": "STS-100",
+    "crew": [
+      "Kent Rominger",
+      "Jeffrey Ashby",
+      "Chris Hadfield",
+      "John L. Phillips",
+      "Scott E. Parazynski",
+      "Umberto Guidoni",
+      "Yury Lonchakov"
+    ],
+    "patchURL": "/patches/STS-100.jpg",
+    "start": "2001-04-19",
+    "end": "2001-05-1"
+  },
+  {
+    "id": "STS-104",
+    "crew": [
+      "Steven Lindsey",
+      "Charles O. Hobaugh",
+      "Michael L. Gernhardt",
+      "Janet L. Kavandi",
+      "James F. Reilly"
+    ],
+    "patchURL": "/patches/STS-104.jpg",
+    "start": "2001-07-12",
+    "end": "2001-07-24"
+  },
+  {
+    "id": "STS-105",
+    "crew": [
+      "Scott J. Horowitz",
+      "Frederick W. Sturckow",
+      "Daniel T. Barry",
+      "Patrick Forrester",
+      "Frank L. Culbertson",
+      "takeoff",
+      "Expedition 3",
+      "Mikhail Tyurin",
+      "takeoff",
+      "Expedition 3",
+      "Vladimir Dezhurov",
+      "takeoff",
+      "Expedition 3",
+      "Yury Usachov",
+      "landing",
+      "Expedition 2",
+      "James S. Voss",
+      "landing",
+      "Expedition 2",
+      "Susan J. Helms",
+      "landing",
+      "Expedition 2"
+    ],
+    "patchURL": "/patches/STS-105.jpg",
+    "start": "2001-08-10",
+    "end": "2001-08-22"
+  },
+  {
+    "id": "STS-108",
+    "crew": [
+      "Dominic L. Pudwill Gorie",
+      "Mark Kelly",
+      "Linda M. Godwin",
+      "Daniel M. Tani",
+      "Yury Onufriyenko",
+      "takeoff",
+      "Expedition 4",
+      "Carl E. Walz",
+      "takeoff",
+      "Expedition 4",
+      "Daniel W. Bursch",
+      "takeoff",
+      "Expedition 4",
+      "Frank L. Culbertson",
+      "landing",
+      "Expedition 3",
+      "Mikhail Tyurin",
+      "landing",
+      "Expedition 3",
+      "Vladimir Dezhurov",
+      "landing",
+      "Expedition 3"
+    ],
+    "patchURL": "/patches/STS-108.jpg",
+    "start": "2001-12-5",
+    "end": "2001-12-17"
+  },
+  {
+    "id": "STS-109",
+    "crew": [
+      "Scott Altman",
+      "Duane G. Carey",
+      "John M. Grunsfeld",
+      "Nancy J. Currie",
+      "Richard M. Linnehan",
+      "James H. Newman",
+      "Michael J. Massimino"
+    ],
+    "patchURL": "/patches/STS-109.jpg",
+    "start": "2002-03-1",
+    "end": "2002-04-12"
+  },
+  {
+    "id": "STS-110",
+    "crew": [
+      "Michael J. Bloomfield",
+      "Stephen Frick",
+      "Jerry L. Ross",
+      "Steven Smith",
+      "Ellen Ochoa",
+      "Lee Morin",
+      "Rex J. Walheim"
+    ],
+    "patchURL": "/patches/STS-110.jpg",
+    "start": "2002-04-8",
+    "end": "2002-04-19"
+  },
+  {
+    "id": "STS-111",
+    "crew": [
+      "Kenneth Cockrell",
+      "Paul Lockhart",
+      "Franklin Ram\u00f3n Chang D\u00edaz",
+      "Philippe Perrin",
+      "Valery Korzun",
+      "takeoff",
+      "Expedition 5",
+      "Peggy Whitson",
+      "takeoff",
+      "Expedition 5",
+      "Sergei Treshchov",
+      "takeoff",
+      "Expedition 5",
+      "Yury Onufriyenko",
+      "landing",
+      "Expedition 4",
+      "Carl E. Walz",
+      "landing",
+      "Expedition 4",
+      "Daniel W. Bursch",
+      "landing",
+      "Expedition 4"
+    ],
+    "patchURL": "/patches/STS-111.jpg",
+    "start": "2002-06-5",
+    "end": "2002-06-19"
+  },
+  {
+    "id": "STS-112",
+    "crew": [
+      "Jeffrey Ashby",
+      "Pamela Melroy",
+      "David Wolf",
+      "Sandra Magnus",
+      "Piers Sellers",
+      "Fyodor Yurchikhin"
+    ],
+    "patchURL": "/patches/STS-112.jpg",
+    "start": "2002-10-7",
+    "end": "2002-10-18"
+  },
+  {
+    "id": "STS-113",
+    "crew": [
+      "Jim Wetherbee",
+      "Paul Lockhart",
+      "Michael L\u00f3pez-Alegr\u00eda",
+      "John Herrington",
+      "Ken Bowersox",
+      "takeoff",
+      "Expedition 6",
+      "Nikolai Budarin",
+      "takeoff",
+      "Expedition 6",
+      "Donald Pettit",
+      "takeoff",
+      "Expedition 6",
+      "Valery Korzun",
+      "landing",
+      "Expedition 5",
+      "Peggy Whitson",
+      "landing",
+      "Expedition 5",
+      "Sergei Treshchov",
+      "landing",
+      "Expedition 5"
+    ],
+    "patchURL": "/patches/STS-113.jpg",
+    "start": "2002-11-24",
+    "end": "2002-12-7"
+  },
+  {
+    "id": "STS-107",
+    "crew": [
+      "Rick Husband",
+      "William C. McCool",
+      "David M. Brown",
+      "Kalpana Chawla",
+      "Michael P. Anderson",
+      "Laurel Clark",
+      "Ilan Ramon"
+    ],
+    "patchURL": "/patches/STS-107.jpg",
+    "start": "2003-01-16",
+    "end": null
+  },
+  {
+    "id": "STS-114",
+    "crew": [
+      "Eileen Collins",
+      "James M. Kelly",
+      "Soichi Noguchi",
+      "Stephen Robinson",
+      "Andy Thomas",
+      "Wendy B. Lawrence",
+      "Charles Camarda"
+    ],
+    "patchURL": "/patches/STS-114.jpg",
+    "start": "2005-07-26",
+    "end": "2005-08-9"
+  },
+  {
+    "id": "STS-121",
+    "crew": [
+      "Steven Lindsey",
+      "Mark Kelly",
+      "Michael E. Fossum",
+      "Lisa Nowak",
+      "Stephanie Wilson",
+      "Piers Sellers",
+      "Thomas Reiter",
+      "Expedition 13",
+      "takeoff"
+    ],
+    "patchURL": "/patches/STS-121.jpg",
+    "start": "2006-07-4",
+    "end": "2006-07-17"
+  },
+  {
+    "id": "STS-115",
+    "crew": [
+      "Brent W. Jett",
+      "Christopher Ferguson",
+      "Steve MacLean",
+      "Daniel C. Burbank",
+      "Heidemarie Stefanyshyn-Piper",
+      "Joseph R. Tanner"
+    ],
+    "patchURL": "/patches/STS-115.jpg",
+    "start": "2006-09-9",
+    "end": "2006-09-21"
+  },
+  {
+    "id": "STS-116",
+    "crew": [
+      "Mark L. Polansky",
+      "William Oefelein",
+      "Robert Curbeam",
+      "Nicholas Patrick",
+      "Sunita Williams",
+      "takeoff",
+      "Expedition 14",
+      "Christer Fuglesang",
+      "Joan Higginbotham",
+      "Thomas Reiter",
+      "landing",
+      "Expedition 14"
+    ],
+    "patchURL": "/patches/STS-116.jpg",
+    "start": "2006-12-10",
+    "end": "2006-12-22"
+  },
+  {
+    "id": "STS-117",
+    "crew": [
+      "Frederick W. Sturckow",
+      "Lee Archambault",
+      "Patrick Forrester",
+      "Steven Swanson",
+      "John D.olivas",
+      "James F. Reilly",
+      "Clayton Anderson",
+      "takeoff",
+      "Expedition 15",
+      "Sunita Williams",
+      "Expedition 15",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-117.jpg",
+    "start": "2007-06-8",
+    "end": "2007-06-22"
+  },
+  {
+    "id": "STS-118",
+    "crew": [
+      "Scott Kelly",
+      "Charles O. Hobaugh",
+      "Tracy Caldwell Dyson",
+      "Richard Mastracchio",
+      "Dafydd Williams",
+      "Barbara Morgan",
+      "Alvin Drew"
+    ],
+    "patchURL": "/patches/STS-118.jpg",
+    "start": "2007-08-8",
+    "end": "2007-08-21"
+  },
+  {
+    "id": "STS-120",
+    "crew": [
+      "Pamela Melroy",
+      "George D. Zamka",
+      "Douglas H. Wheelock",
+      "Stephanie Wilson",
+      "Scott E. Parazynski",
+      "Paolo Nespoli",
+      "Daniel M. Tani",
+      "Expedition 16",
+      "takeoff",
+      "Clayton Anderson",
+      "Expedition 16",
+      "landing"
+    ],
+    "patchURL": "/patches/STS-120.jpg",
+    "start": "2007-10-23",
+    "end": null
+  },
+  {
+    "id": "STS-122",
+    "crew": [
+      "Stephen Frick",
+      "Alan G. Poindexter",
+      "Leland D. Melvin",
+      "Rex J. Walheim",
+      "Hans Schlegel",
+      "Stanley G. Love",
+      "L\u00e9opold Eyharts",
+      "takeoff",
+      "Expedition 16",
+      "Daniel M. Tani",
+      "landing",
+      "Expedition 16"
+    ],
+    "patchURL": "/patches/STS-122.jpg",
+    "start": "2008-02-7",
+    "end": null
+  },
+  {
+    "id": "STS-123",
+    "crew": [
+      "Dominic L. Pudwill Gorie",
+      "Gregory H. Johnson",
+      "Robert L. Behnken",
+      "Michael Foreman",
+      "Richard M. Linnehan",
+      "Takao Doi",
+      "Garrett Reisman",
+      "takeoff",
+      "Expedition 16",
+      "L\u00e9opold Eyharts",
+      "landing",
+      "Expedition 16"
+    ],
+    "patchURL": "/patches/STS-123.jpg",
+    "start": "2008-03-11",
+    "end": null
+  },
+  {
+    "id": "STS-124",
+    "crew": [
+      "Mark Kelly",
+      "Kenneth Ham",
+      "Karen L. Nyberg",
+      "Ronald J. Garan",
+      "Michael E. Fossum",
+      "Akihiko Hoshide",
+      "Gregory Chamitoff",
+      "takeoff",
+      "Expedition 17",
+      "Garrett Reisman",
+      "landing",
+      "Expedition 17"
+    ],
+    "patchURL": "/patches/STS-124.jpg",
+    "start": "2008-05-31",
+    "end": null
+  },
+  {
+    "id": "STS-126",
+    "crew": [
+      "Christopher Ferguson",
+      "Eric Boe",
+      "Heidemarie Stefanyshyn-Piper",
+      "Stephen Bowen",
+      "Donald Pettit",
+      "Shane Kimbrough",
+      "Sandra Magnus",
+      "takeoff",
+      "Expedition 18",
+      "Gregory Chamitoff",
+      "landing",
+      "Expedition 18"
+    ],
+    "patchURL": "/patches/STS-126.jpg",
+    "start": "2008-11-15",
+    "end": "2008-11-30"
+  },
+  {
+    "id": "STS-119",
+    "crew": [
+      "Lee Archambault",
+      "Dominic A. Antonelli",
+      "John L. Phillips",
+      "Steven Swanson",
+      "Richard R. Arnold",
+      "Koichi Wakata",
+      "takeoff",
+      "Expedition 18",
+      "Sandra Magnus",
+      "landing",
+      "Joseph M. Acaba"
+    ],
+    "patchURL": "/patches/STS-119.jpg",
+    "start": "2009-03-15",
+    "end": null
+  },
+  {
+    "id": "STS-125",
+    "crew": [
+      "Scott Altman",
+      "Gregory C. Johnson",
+      "Michael T. Good",
+      "Megan McArthur",
+      "John M. Grunsfeld",
+      "Michael J. Massimino",
+      "Andrew J. Feustel"
+    ],
+    "patchURL": "/patches/STS-125.jpg",
+    "start": "2009-05-11",
+    "end": null
+  },
+  {
+    "id": "STS-127",
+    "crew": [
+      "Mark L. Polansky",
+      "Douglas G. Hurley",
+      "Christopher Cassidy",
+      "Julie Payette",
+      "Thomas Marshburn",
+      "David Wolf",
+      "Timothy Kopra",
+      "takeoff",
+      "Expedition 20",
+      "Koichi Wakata",
+      "landing",
+      "Expedition 20"
+    ],
+    "patchURL": "/patches/STS-127.jpg",
+    "start": "2009-07-15",
+    "end": null
+  },
+  {
+    "id": "STS-128",
+    "crew": [
+      "Frederick W. Sturckow",
+      "Kevin A. Ford",
+      "John D.olivas",
+      "Patrick Forrester",
+      "Christer Fuglesang",
+      "Nicole Stott",
+      "takeoff",
+      "Expedition 20",
+      "Timothy Kopra",
+      "landing",
+      "Expedition 20",
+      "Jose M. Hernandez"
+    ],
+    "patchURL": "/patches/STS-128.jpg",
+    "start": "2009-08-29",
+    "end": "2009-09-12"
+  },
+  {
+    "id": "STS-129",
+    "crew": [
+      "Charles O. Hobaugh",
+      "Barry E. Wilmore",
+      "Leland D. Melvin",
+      "Randolph Bresnik",
+      "Michael Foreman",
+      "Robert Satcher",
+      "Nicole Stott",
+      "landing",
+      "Expedition 21"
+    ],
+    "patchURL": "/patches/STS-129.jpg",
+    "start": "2009-11-16",
+    "end": null
+  },
+  {
+    "id": "STS-130",
+    "crew": [
+      "George D. Zamka",
+      "Terry W. Virts",
+      "Kathryn P. Hire",
+      "Stephen Robinson",
+      "Nicholas Patrick",
+      "Robert L. Behnken"
+    ],
+    "patchURL": "/patches/STS-130.jpg",
+    "start": "2010-02-8",
+    "end": null
+  },
+  {
+    "id": "STS-131",
+    "crew": [
+      "Alan G. Poindexter",
+      "James Dutton",
+      "Richard Mastracchio",
+      "Dorothy M. Metcalf-Lindenburger",
+      "Stephanie Wilson",
+      "Naoko Yamazaki",
+      "Clayton Anderson"
+    ],
+    "patchURL": "/patches/STS-131.jpg",
+    "start": "2010-04-5",
+    "end": null
+  },
+  {
+    "id": "STS-132",
+    "crew": [
+      "Kenneth Ham",
+      "Dominic A. Antonelli",
+      "Garrett Reisman",
+      "Michael T. Good",
+      "Stephen Bowen",
+      "Piers Sellers"
+    ],
+    "patchURL": "/patches/STS-132.jpg",
+    "start": "2010-05-14",
+    "end": "2010-05-26"
+  },
+  {
+    "id": "STS-133",
+    "crew": [
+      "Steven Lindsey",
+      "Eric Boe",
+      "Nicole Stott",
+      "Alvin Drew",
+      "Michael Barratt",
+      "Stephen Bowen"
+    ],
+    "patchURL": "/patches/STS-133.jpg",
+    "start": "2011-02-24",
+    "end": "2011-03-9"
+  },
+  {
+    "id": "STS-134",
+    "crew": [
+      "Mark Kelly",
+      "Gregory H. Johnson",
+      "Michael Fincke",
+      "Roberto Vittori",
+      "Andrew J. Feustel",
+      "Gregory Chamitoff"
+    ],
+    "patchURL": "/patches/STS-134.jpg",
+    "start": "2011-05-16",
+    "end": "2011-06-1"
+  },
+  {
+    "id": "STS-135",
+    "crew": [
+      "Christopher Ferguson",
+      "Douglas G. Hurley",
+      "Sandra Magnus",
+      "Rex J. Walheim"
+    ],
+    "patchURL": "/patches/STS-135.jpg",
+    "start": "2011-07-8",
+    "end": "2011-07-10"
+  }
+]
