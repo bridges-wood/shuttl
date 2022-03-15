@@ -14,40 +14,53 @@ interface PageProps {
   missions: Mission[]
 }
 
-export default function Home({missions}: PageProps) {
-
-  return <div>
-    <Head>
-      <title>Shttl | Home</title>
-    </Head>
-    <header>
-      <h1>Shttl</h1>
-      <small className='tagline'>In space, all you can hear is this.</small>
-    </header>
-    <p>An archival repository of every wake-up playlist on every shuttle mission, from 1981 to 2011.</p>
-    <div className="mission-deck">
-      {missions.map((mission, idx) => (
-        <MissionCard
-          mission={mission}
-          key={idx}
-        />
-      ))}
-    </div>
-  </div>
+export default function Home({ missions }: PageProps) {
+  return (
+    <React.Fragment>
+      <Head>
+        <title>Shuttl | Home</title>
+      </Head>
+      <header>
+        <h1 className="name">Shuttl</h1>
+        <small className="tagline">In space, all you can hear is this.</small>
+      </header>
+      <main>
+        <p>The music of the shuttle program, from 1981 to 2011.</p>
+        {missions.length !== 0 ? (
+          <div className="mission-deck">
+            {missions.map((mission, idx) => (
+              <MissionCard mission={mission} key={idx} />
+            ))}
+          </div>
+        ) : (
+          <p className="no-missions-message">
+            Welcome to <span className="name">Shttl</span>. There are no
+            missions to see at the moment, check back soon to join us on our
+            journey through the history of the Space Transport System and the
+            music that accompanied this era of manned spaceflight.
+          </p>
+        )}
+      </main>
+    </React.Fragment>
+  )
 }
 
 export const getStaticProps: GetStaticProps = () => {
   const hydratedPosts = postFilePaths.map((postFileName) => {
     const completePath = path.join(POSTS_PATH, postFileName)
     const source = fs.readFileSync(completePath)
-    const {data} = matter(source)
+    const { data } = matter(source)
     return {
-      ...(data as Frontmatter)
+      ...(data as Frontmatter),
     }
   })
 
-  const published = hydratedPosts.filter(post => post.isPublished)
-
-  console.log('published', published);
-  return {props: {missions: missions.filter(mission => published.find(post => post.title === mission.id))}}
+  const published = hydratedPosts.filter((post) => post.isPublished)
+  return {
+    props: {
+      missions: missions.filter((mission) =>
+        published.find((post) => post.title === mission.id)
+      ),
+    },
+  }
 }

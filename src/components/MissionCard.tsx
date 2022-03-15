@@ -11,8 +11,8 @@ const MissionCard = ({mission}: ComponentProps) => {
     <div className='mission-card'>
       <a href={`/missions/${mission.id}`}>
         <Image src={mission.patchURL} width='200px' height='200px' alt={`Mission patch for ${mission.id}`}/>
+        <h2 className='link'>{mission.id}</h2>
       </a>
-      <h2>{mission.id}</h2>
     </div>
   )
 }

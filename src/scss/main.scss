@@ -1,0 +1,139 @@
+$bottom-padding: 60px;
+$body-width: 680px;
+
+body {
+  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif;
+  color: white;
+  background-color: black;
+  padding: 20px 20px 40px;
+  margin: 0;
+}
+
+#__next {
+  position: relative;
+  min-height: calc(100vh - $bottom-padding);
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
+.bg {
+  z-index: -1;
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  height: calc(100% + $bottom-padding);
+  width: calc(100% + 40px);
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header > h1 {
+  margin-block-end: 0px;
+}
+
+.name {
+  font-weight: bold;
+  width: min-content;
+  background: #F5A465;
+  background: -webkit-linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  background: -moz-linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  background: linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h1 {
+  text-align: center;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.link {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: #aaa;
+  text-underline-position: under;
+}
+
+.link:hover {
+  text-decoration-color: #fff;
+}
+
+.tagline {
+  color: #888;
+  font-style: italic;
+  text-align: center;
+  display: block;
+}
+
+.head {
+  display: grid;
+  justify-content: center;
+}
+
+.mission-deck {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.mission-card {
+  a > .link {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+}
+
+.page-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.no-missions-message {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+ .content-wrapper {
+  max-width: $body-width;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: $bottom-padding;
+} 
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+	display: flex;
+	flex-direction: column;
+	height: $bottom-padding;
+  margin-bottom: -20px;
+}
+
+footer > span {
+  margin-top: 0.125em;
+  line-height: 1.3;
+  text-align: center;
+}
+
+.acknowlegdement {
+  color: #888;
+}
+
+.icon {
+	height: 20px;
+	width: 20px;
+	margin: 5px 5px 5px 5px;
+}
