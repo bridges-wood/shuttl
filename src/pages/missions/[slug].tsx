@@ -1,6 +1,10 @@
-import Frontmatter from '@typings/Frontmatter'
+import AnchoredHeading from '@components/AnchoredHeading'
+import MissionImage from '@components/MissionImage'
+import { MDXProvider } from '@mdx-js/react'
 import { Mission } from '@typings/mission'
-import { postFilePaths, POSTS_PATH } from '@utils/posts'
+import Post from '@typings/Post'
+import imageMetadata from '@utils/plugins/image-metadata'
+import { isPublished, postFilePaths, POSTS_PATH } from '@utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
 import { GetStaticPaths, GetStaticProps } from 'next'
@@ -14,11 +18,21 @@ import missions from '../../../public/missions.json'
 
 interface PageProps {
   source: MDXRemoteSerializeResult<Record<string, unknown>>
-  frontmatter: Frontmatter
+  post: Post
   mission: Mission
 }
 
-const Mission = ({ source, frontmatter, mission }: PageProps) => {
+const components: React.ComponentProps<typeof MDXProvider>['components'] = {
+  Image: MissionImage,
+  h1: (props: any) => <AnchoredHeading level={1} {...props} />,
+  h2: (props: any) => <AnchoredHeading level={2} {...props} />,
+  h3: (props: any) => <AnchoredHeading level={3} {...props} />,
+  h4: (props: any) => <AnchoredHeading level={4} {...props} />,
+  h5: (props: any) => <AnchoredHeading level={5} {...props} />,
+  h6: (props: any) => <AnchoredHeading level={6} {...props} />,
+}
+
+const Mission = ({ source, post, mission }: PageProps) => {
   return (
     <>
       <Head>
@@ -26,17 +40,19 @@ const Mission = ({ source, frontmatter, mission }: PageProps) => {
       </Head>
       <div>
         <div className="head">
-          <h1>{mission.id}</h1>
+          <h1 className="mission-name">{mission.id}</h1>
           <Image
             className="mission-patch"
             src={mission.patchURL}
             width={400}
             height={400}
             alt={`Mission patch for ${mission.id}`}
+            placeholder="empty"
+            priority
           />
         </div>
         <main>
-          <MDXRemote {...source} />
+          <MDXRemote {...source} components={components} />
         </main>
         <iframe
           src={mission.playlist}
@@ -59,21 +75,31 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: false }
 }
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
   const postFilePath = path.join(POSTS_PATH, `${params.slug}.mdx`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)
 
-  if (!data.isPublished)
+  if (!isPublished(data as Post)) {
     return { redirect: { statusCode: 302, destination: '/' } }
-  else {
-    const mdxSource = await serialize(content, { scope: data })
+  } else {
+    const mdxSource = await serialize(content, {
+      scope: data,
+      mdxOptions: {
+        rehypePlugins: [imageMetadata],
+      },
+    })
+
+    const mission: Mission = missions.find(
+      (mission) => mission.id === params.slug
+    )
+
     return {
       props: {
         source: mdxSource,
-        frontmatter: data as Frontmatter,
-        mission: missions.find((mission) => mission.id === params.slug),
+        post: data as Post,
+        mission,
       },
     }
   }
