@@ -1,0 +1,14 @@
+@import '../common.scss';
+
+.name {
+  font-weight: bold;
+  width: min-content;
+  @include gradient()
+}
+
+.tagline {
+  color: #888;
+  font-style: italic;
+  text-align: center;
+  display: block;
+}

@@ -1,0 +1,26 @@
+.mission-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .countdown {
+    display: inline-block;
+    z-index: 1;
+    position: absolute;
+    top: 40%;
+    width: 15ex;
+    text-align: center;
+  }
+  
+  a > .link {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+}
+
+.teaser {
+  .mission-patch {
+    filter: brightness(20%);
+  }
+}

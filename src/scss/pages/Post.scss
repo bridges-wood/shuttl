@@ -1,0 +1,20 @@
+@import '../common.scss';
+
+.mission-name {
+  width: min-content;
+  white-space: nowrap;
+  margin-right: auto;
+  margin-left: auto;
+  @include gradient()
+}
+
+.mission-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  figcaption {
+    font-size: 0.8em;
+    margin-top: 0.5em;
+  }
+}

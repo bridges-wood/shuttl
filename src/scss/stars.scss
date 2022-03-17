@@ -1,0 +1,74 @@
+// n is number of stars required
+@function multiple-box-shadow ($n) {
+  $value: '#{random(4000)}px #{random(4000)}px #FFF';
+  @for $i from 2 through $n {
+    $value: '#{$value} , #{random(4000)}px #{random(4000)}px #FFF';
+  }
+
+  @return unquote($value);
+}
+
+$shadows-small: multiple-box-shadow(1000);
+$shadows-medium: multiple-box-shadow(500);
+$shadows-large: multiple-box-shadow(200);
+    
+#stars {
+  width: 1px;
+  height: 1px;
+  background: transparent;
+  box-shadow: $shadows-small;
+  animation: animStar 1080s linear infinite;
+    
+  ::after {
+    content: " ";
+    position: absolute;
+    top: 4000px;
+    width: 1px;
+    height: 1px;
+    background: transparent;
+    box-shadow: $shadows-small;
+  }
+}
+
+#stars2 {
+  width: 2px;
+  height: 2px;
+  background: transparent;
+  box-shadow: $shadows-medium;
+  animation: animStar 720s linear infinite;
+    
+  ::after {
+    content: " ";
+    position: absolute;
+    top: 4000px;
+    width: 2px;
+    height: 2px;
+    background: transparent;
+    box-shadow: $shadows-small;
+  }
+}
+
+  #stars3 {
+    width: 3px;
+    height: 3px;
+    background: transparent;
+    box-shadow: $shadows-large;
+    animation: animStar 360s linear infinite;
+      
+    ::after {
+      content: " ";
+      position: absolute;
+      top: 4000px;
+      width: 3px;
+      height: 3px;
+      background: transparent;
+      box-shadow: $shadows-small;
+    }
+  }
+
+@keyframes animStar {
+  from{
+    transform: translateY(0px)}
+  to
+    {transform: translateY(-2000px)}
+}

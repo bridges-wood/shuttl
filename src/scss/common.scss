@@ -1,0 +1,11 @@
+$bottom-padding: 60px;
+$body-width: 680px;
+
+@mixin gradient {
+  background: #F5A465;
+  background: -webkit-linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  background: -moz-linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  background: linear-gradient(to right, #F5A465 0%, #BCB4A1 20%, #5789A3 50%, #073A6C 80%, #060F21 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
