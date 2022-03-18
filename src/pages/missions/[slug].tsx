@@ -3,8 +3,9 @@ import MissionImage from '@components/MissionImage'
 import { MDXProvider } from '@mdx-js/react'
 import { Mission } from '@typings/mission'
 import Post from '@typings/Post'
+import { isPublished, publishedMessage } from '@utils/index'
 import imageMetadata from '@utils/plugins/image-metadata'
-import { isPublished, postFilePaths, POSTS_PATH } from '@utils/posts'
+import { postFilenames, POSTS_PATH } from '@utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
 import { GetStaticPaths, GetStaticProps } from 'next'
@@ -41,6 +42,7 @@ const Mission = ({ source, post, mission }: PageProps) => {
       <div>
         <div className="head">
           <h1 className="mission-name">{mission.id}</h1>
+          <p className="tagline">Published {publishedMessage(post)}.</p>
           <Image
             className="mission-patch"
             src={mission.patchURL}
@@ -67,12 +69,31 @@ const Mission = ({ source, post, mission }: PageProps) => {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const postPaths = postFilePaths.map((path) => path.replace(/\.mdx$/, ''))
+  /**
+   * List of paths to all post files.
+   */
+  let filePaths = []
+
+  for (const filename of postFilenames) {
+    const post = path.join(POSTS_PATH, filename)
+    const source = fs.readFileSync(post)
+    const { data } = matter(source)
+
+    // Skip unpublished posts
+    if (!isPublished(data as Post)) continue
+
+    filePaths.push(filename)
+  }
+
+  // The ID of each post can be determined by removing the file extension.
+  const postIDs = filePaths.map((path) => path.replace(/\.mdx$/, ''))
+
+  // Only posts with logged missions can be included.
   const paths = missions
-    .filter((mission) => postPaths.includes(mission.id))
+    .filter((mission) => postIDs.includes(mission.id))
     .map((mission) => ({ params: { slug: mission.id } }))
 
-  return { paths, fallback: false }
+  return { paths, fallback: 'blocking' }
 }
 
 export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
@@ -101,6 +122,7 @@ export const getStaticProps: GetStaticProps<PageProps> = async ({ params }) => {
         post: data as Post,
         mission,
       },
+      revalidate: 10,
     }
   }
 }

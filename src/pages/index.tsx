@@ -1,7 +1,9 @@
 import MissionCard from '@components/MissionCard'
+import Teaser from '@components/Teaser'
 import { Mission } from '@typings/mission'
 import Post, { UpcomingPost } from '@typings/Post'
-import { isPublished, postFilePaths, POSTS_PATH } from '@utils/posts'
+import { isPublished } from '@utils/index'
+import { postFilenames, POSTS_PATH } from '@utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
 import { GetStaticProps } from 'next'
@@ -9,7 +11,6 @@ import Head from 'next/head'
 import path from 'path'
 import React from 'react'
 import missions from '../../public/missions.json'
-import Teaser from '../components/Teaser'
 
 interface PageProps {
   missions: Mission[]
@@ -72,7 +73,7 @@ export default function Home({ missions, upNext }: PageProps) {
 }
 
 export const getStaticProps: GetStaticProps<PageProps> = () => {
-  const hydratedPosts = postFilePaths.map((postFileName) => {
+  const hydratedPosts = postFilenames.map((postFileName) => {
     const completePath = path.join(POSTS_PATH, postFileName)
     const source = fs.readFileSync(completePath)
     const { data } = matter(source)
@@ -100,5 +101,6 @@ export const getStaticProps: GetStaticProps<PageProps> = () => {
             }
           : null,
     },
+    revalidate: 10,
   }
 }
