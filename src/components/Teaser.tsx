@@ -28,7 +28,7 @@ const Teaser = ({ mission, releaseDate }: ComponentProps) => {
     }
   }, [timeRemaining])
 
-  if (timeRemaining === 0) {
+  if (timeRemaining <= 0) {
     return <MissionCard mission={mission} />
   }
 

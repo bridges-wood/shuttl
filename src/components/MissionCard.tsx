@@ -18,6 +18,7 @@ const MissionCard = ({ mission }: ComponentProps) => {
             height="200px"
             alt={`Mission patch for ${mission.id}`}
             className="mission-patch"
+            priority
           />
           <h2 className="link">{mission.id}</h2>
         </a>
