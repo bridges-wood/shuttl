@@ -5,7 +5,7 @@
       "John Young",
       "Robert Crippen"
     ],
-    "patchURL": "/patches/STS-1.png",
+    "patchURL": "https://shuttl-images.s3.eu-west-2.amazonaws.com/patches/STS-1.png",
     "playlist": "https://open.spotify.com/embed/playlist/4S9wPqEDQLeX7NIvqVHwVJ?utm_source=generator&theme=0",
     "start": "1981-04-12",
     "end": "1981-04-14"
@@ -16,7 +16,7 @@
       "Joe Engle",
       "Richard H. Truly"
     ],
-    "patchURL": "/patches/STS-2.png",
+    "patchURL": "https://shuttl-images.s3.eu-west-2.amazonaws.com/patches/STS-2.png",
     "start": "1981-11-12",
     "end": "1981-11-14"
   },
@@ -26,7 +26,7 @@
       "C. Gordon Fullerton",
       "Jack R. Lousma"
     ],
-    "patchURL": "/patches/STS-3.jpg",
+    "patchURL": "https://shuttl-images.s3.eu-west-2.amazonaws.com/patches/patches/STS-3.png",
     "start": "1982-03-22",
     "end": "1982-04-30"
   },
