@@ -13,7 +13,7 @@ const nextConfig = {
     return config
   },
   images: {
-    domains: ['history.nasa.gov'],
+    domains: ['history.nasa.gov', 'shuttl-images.s3.eu-west-2.amazonaws.com'],
   },
 }
 
