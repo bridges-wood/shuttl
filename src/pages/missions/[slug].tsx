@@ -38,6 +38,30 @@ const Mission = ({ source, post, mission }: PageProps) => {
     <>
       <Head>
         <title>Shuttl | {mission.id}</title>
+        <meta name="description" content={post.description} />
+        <meta
+          property="og:url"
+          content={`https://shuttl.maxwood.tech/${mission.id}`}
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={`Shuttl | ${mission.id}`} />
+        <meta property="og:description" content={post.description} />
+        <meta
+          property="og:image"
+          content={`https://shuttl-images.s3.eu-west-2.amazonaws.com/images/${mission.id}/preview.jpeg`}
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="twitter:domain" content="shuttl.maxwood.tech" />
+        <meta
+          property="twitter:url"
+          content={`https://shuttl.maxwood.tech/missions/${mission.id}`}
+        />
+        <meta name="twitter:title" content={`Shuttl | ${mission.id}`} />
+        <meta name="twitter:description" content={post.description} />
+        <meta
+          property="twitter:image"
+          content={`https://shuttl-images.s3.eu-west-2.amazonaws.com/images/${mission.id}/preview.jpeg`}
+        />
       </Head>
       <div>
         <div className="head">

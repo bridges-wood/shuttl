@@ -23,7 +23,33 @@ export default function Home({ missions, upNext }: PageProps) {
   return (
     <React.Fragment>
       <Head>
-        <title>Shuttl | Home</title>
+        <meta
+          name="description"
+          content="A weekly blog on the music of the shuttle program, from 1981 to 2011. Join us every Friday for a new playlist and discussion."
+        />
+        <meta property="og:url" content="https://shuttl.maxwood.tech/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Shuttl" />
+        <meta
+          property="og:description"
+          content="A weekly blog on the music of the shuttle program, from 1981 to 2011. Join us every Friday for a new playlist and discussion."
+        />
+        <meta
+          property="og:image"
+          content="https://shuttl-images.s3.eu-west-2.amazonaws.com/preview.jpeg"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="twitter:domain" content="shuttl.maxwood.tech" />
+        <meta property="twitter:url" content="https://shuttl.maxwood.tech/" />
+        <meta name="twitter:title" content="Shuttl" />
+        <meta
+          name="twitter:description"
+          content="A weekly blog on the music of the shuttle program, from 1981 to 2011. Join us every Friday for a new playlist and discussion."
+        />
+        <meta
+          name="twitter:image"
+          content="https://shuttl-images.s3.eu-west-2.amazonaws.com/preview.jpeg"
+        />
       </Head>
       <header>
         <h1 className="name">Shuttl</h1>

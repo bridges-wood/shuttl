@@ -2,7 +2,7 @@ import { Mission } from '@typings/mission'
 
 export default interface Post {
   title: string
-  description?: string
+  description: string
   date: string
 }
 
