@@ -109,21 +109,25 @@ export const getStaticProps: GetStaticProps<PageProps> = () => {
   })
 
   const published = hydratedPosts.filter(isPublished)
-  const nextPost = hydratedPosts
+  const nextUnpublishedPost = hydratedPosts
     .filter((post) => !isPublished(post))
-    .reduce((prev, cur) =>
-      new Date(prev.date) < new Date(cur.date) ? prev : cur
+    .reduce(
+      (prev, cur) => (new Date(prev.date) < new Date(cur.date) ? prev : cur),
+      null
     )
+
   return {
     props: {
       missions: missions.filter((mission) =>
         published.find((post) => post.title === mission.id)
       ),
       upNext:
-        new Date(nextPost.date) > new Date()
+        nextUnpublishedPost !== null
           ? {
-              ...missions.find((mission) => mission.id === nextPost.title),
-              releaseDate: nextPost.date.toString(),
+              ...missions.find(
+                (mission) => mission.id === nextUnpublishedPost.title
+              ),
+              releaseDate: nextUnpublishedPost.date.toString(),
             }
           : null,
     },
